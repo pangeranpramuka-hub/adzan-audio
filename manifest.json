@@ -4,7 +4,7 @@
   "adhans": [
     {
       "id": "01_madinah_normal",
-      "name": "Madinah Normal",
+      "name": "Madinah Call to Prayer",
       "type": "normal",
       "file": "normal/01_madinah_normal.mp3",
       "size": 95765,
@@ -12,7 +12,7 @@
     },
     {
       "id": "02_indonesia_normal",
-      "name": "Indonesia Normal",
+      "name": "Indonesian Call to Prayer",
       "type": "normal",
       "file": "normal/02_indonesia_normal.mp3",
       "size": 1873336,
@@ -20,7 +20,7 @@
     },
     {
       "id": "03_makkah_normal",
-      "name": "Makkah Normal",
+      "name": "Makkah Call to Prayer",
       "type": "normal",
       "file": "normal/03_makkah_normal.mp3",
       "size": 1423360,
@@ -28,7 +28,7 @@
     },
     {
       "id": "04_adzan-misyari-rasyid",
-      "name": "Adzan-Misyari-Rasyid",
+      "name": "Mishary Rashid Alafasy",
       "type": "normal",
       "file": "normal/04_Adzan-Misyari-Rasyid.mp3",
       "size": 3713152,
@@ -36,7 +36,7 @@
     },
     {
       "id": "05_adzan_by_mishari_rashid_al-afasy-2",
-      "name": "Adzan By Mishari Rashid Al-Afasy-2",
+      "name": "Mishary Rashid Alafasy II",
       "type": "normal",
       "file": "normal/05_adzan_by_mishari_rashid_al-afasy-2.mp3",
       "size": 639007,
@@ -44,7 +44,7 @@
     },
     {
       "id": "06_adhan_by_muhammad_al-luhaidan",
-      "name": "Adhan By Muhammad Al-Luhaidan",
+      "name": "Muhammad Al Luhaidan",
       "type": "normal",
       "file": "normal/06_adhan_by_muhammad_al-luhaidan.mp3",
       "size": 524277,
@@ -52,7 +52,7 @@
     },
     {
       "id": "07_yusuf-maati-adzan",
-      "name": "Yusuf-Maati-Adzan",
+      "name": "Yusuf Maati",
       "type": "normal",
       "file": "normal/07_Yusuf-Maati-Adzan.mp3",
       "size": 1998085,
@@ -60,7 +60,7 @@
     },
     {
       "id": "08_adhan_from_hawai_by_abderrahim_ed",
-      "name": "Adhan From Hawai By Abderrahim Ed",
+      "name": "Abderrahim Ed",
       "type": "normal",
       "file": "normal/08_adhan_from_hawai_by_abderrahim_ed.mp3",
       "size": 734197,
@@ -68,7 +68,7 @@
     },
     {
       "id": "09_adzan-yusuf-islam-cat-steven",
-      "name": "Adzan-Yusuf-Islam-Cat-Steven",
+      "name": "Yusuf Islam",
       "type": "normal",
       "file": "normal/09_Adzan-Yusuf-Islam-cat-steven.mp3",
       "size": 593920,
@@ -76,7 +76,7 @@
     },
     {
       "id": "10_adzan-muhammad-taha-bajunaid",
-      "name": "Adzan-Muhammad-Taha-Bajunaid",
+      "name": "Muhammad Taha Bajunaid",
       "type": "normal",
       "file": "normal/10_Adzan-Muhammad-Taha-Bajunaid.mp3",
       "size": 3680256,
@@ -84,7 +84,7 @@
     },
     {
       "id": "11_pakistan-adzan",
-      "name": "Pakistan-Adzan",
+      "name": "Pakistan Style",
       "type": "normal",
       "file": "normal/11_Pakistan-Adzan.mp3",
       "size": 737888,
@@ -92,7 +92,7 @@
     },
     {
       "id": "11_athan_by_child_ahmet",
-      "name": "Athan By Child Ahmet",
+      "name": "Ahmet Child Voice",
       "type": "normal",
       "file": "normal/11_athan_by_child_ahmet.mp3",
       "size": 1042860,
@@ -100,7 +100,7 @@
     },
     {
       "id": "12_mecca-adzan-2",
-      "name": "Mecca-Adzan-2",
+      "name": "Makkah Style II",
       "type": "normal",
       "file": "normal/12_Mecca-Adzan-2.mp3",
       "size": 487824,
@@ -108,7 +108,7 @@
     },
     {
       "id": "13_adan_madinah_32_16",
-      "name": "Adan Madinah 32 16",
+      "name": "Madinah Style II",
       "type": "normal",
       "file": "normal/13_adan_madinah_32_16.mp3",
       "size": 684160,
@@ -116,7 +116,7 @@
     },
     {
       "id": "14_athan_egypt",
-      "name": "Athan Egypt",
+      "name": "Egyptian Style",
       "type": "normal",
       "file": "normal/14_athan_egypt.mp3",
       "size": 891008,
@@ -124,7 +124,7 @@
     },
     {
       "id": "15_adzan-mesir-1",
-      "name": "Adzan-Mesir-1",
+      "name": "Egyptian Style II",
       "type": "normal",
       "file": "normal/15_adzan-mesir-1.mp3",
       "size": 743424,
@@ -132,7 +132,7 @@
     },
     {
       "id": "16_adzan-mesir-3",
-      "name": "Adzan-Mesir-3",
+      "name": "Egyptian Style III",
       "type": "normal",
       "file": "normal/16_adzan-mesir-3.mp3",
       "size": 641152,
@@ -140,7 +140,7 @@
     },
     {
       "id": "17_alaqsa2_64_22",
-      "name": "Alaqsa2 64 22",
+      "name": "Al Aqsa Style",
       "type": "normal",
       "file": "normal/17_alaqsa2_64_22.mp3",
       "size": 1804288,
@@ -148,7 +148,7 @@
     },
     {
       "id": "18_adzan-imam-malaysia",
-      "name": "Adzan-Imam-Malaysia",
+      "name": "Malaysian Imam",
       "type": "normal",
       "file": "normal/18_Adzan-imam-Malaysia.mp3",
       "size": 3602432,
@@ -156,7 +156,7 @@
     },
     {
       "id": "19_adzan-bosnia",
-      "name": "Adzan-Bosnia",
+      "name": "Bosnian Style",
       "type": "normal",
       "file": "normal/19_Adzan-Bosnia.mp3",
       "size": 1286144,
@@ -164,7 +164,7 @@
     },
     {
       "id": "ahmad-nafees-adzan",
-      "name": "Ahmad-Nafees-Adzan",
+      "name": "Ahmad Nafees",
       "type": "normal",
       "file": "normal/Ahmad-Nafees-Adzan.mp3",
       "size": 3385735,
@@ -172,7 +172,7 @@
     },
     {
       "id": "hussein-rajab-adzan",
-      "name": "Hussein-Rajab-Adzan",
+      "name": "Hussein Rajab",
       "type": "normal",
       "file": "normal/Hussein-Rajab-Adzan.mp3",
       "size": 770093,
@@ -180,7 +180,7 @@
     },
     {
       "id": "ibrahim-as-sadee-adzan",
-      "name": "Ibrahim-As-Sadee-Adzan",
+      "name": "Ibrahim As Sadee",
       "type": "normal",
       "file": "normal/Ibrahim-As-Sadee-Adzan.mp3",
       "size": 1948896,
@@ -188,7 +188,7 @@
     },
     {
       "id": "syria-adzan",
-      "name": "Syria-Adzan",
+      "name": "Syrian Style",
       "type": "normal",
       "file": "normal/Syria-Adzan.mp3",
       "size": 895816,
@@ -196,7 +196,7 @@
     },
     {
       "id": "adzan_abdel_baset",
-      "name": "Adzan Abdel Baset",
+      "name": "Abdel Baset",
       "type": "normal",
       "file": "normal/adzan_abdel_baset.mp3",
       "size": 499961,
@@ -204,7 +204,7 @@
     },
     {
       "id": "adzan_turkey-1",
-      "name": "Adzan Turkey-1",
+      "name": "Turkish Style I",
       "type": "normal",
       "file": "normal/adzan_turkey-1.mp3",
       "size": 1443377,
@@ -212,7 +212,7 @@
     },
     {
       "id": "adzan_turkey-2",
-      "name": "Adzan Turkey-2",
+      "name": "Turkish Style II",
       "type": "normal",
       "file": "normal/adzan_turkey-2.mp3",
       "size": 1587449,
@@ -220,7 +220,7 @@
     },
     {
       "id": "adzan_uea",
-      "name": "Adzan Uea",
+      "name": "UAE Style",
       "type": "normal",
       "file": "normal/adzan_uea.mp3",
       "size": 658433,
@@ -228,7 +228,7 @@
     },
     {
       "id": "azan_di_tv9_malaysia",
-      "name": "Azan Di Tv9 Malaysia",
+      "name": "TV9 Malaysia",
       "type": "normal",
       "file": "normal/azan_di_tv9_malaysia.mp3",
       "size": 507349,
@@ -236,7 +236,7 @@
     },
     {
       "id": "ezan_from_europe",
-      "name": "Ezan From Europe",
+      "name": "European Style",
       "type": "normal",
       "file": "normal/ezan_from_europe.mp3",
       "size": 1097508,
@@ -244,7 +244,7 @@
     },
     {
       "id": "01_madinah_subuh",
-      "name": "Madinah Subuh",
+      "name": "Madinah Fajr",
       "type": "subuh",
       "file": "subuh/01_madinah_subuh.mp3",
       "size": 641262,
@@ -252,7 +252,7 @@
     },
     {
       "id": "02_indonesia_subuh",
-      "name": "Indonesia Subuh",
+      "name": "Indonesian Fajr",
       "type": "subuh",
       "file": "subuh/02_indonesia_subuh.mp3",
       "size": 2161193,
@@ -260,7 +260,7 @@
     },
     {
       "id": "03_makkah_subuh",
-      "name": "Makkah Subuh",
+      "name": "Makkah Fajr",
       "type": "subuh",
       "file": "subuh/03_makkah_subuh.mp3",
       "size": 1112086,
@@ -268,7 +268,7 @@
     },
     {
       "id": "04_madina-adzan-fajr",
-      "name": "Madina-Adzan-Fajr",
+      "name": "Madinah Fajr II",
       "type": "subuh",
       "file": "subuh/04_Madina-Adzan-Fajr.mp3",
       "size": 706744,
@@ -276,7 +276,7 @@
     },
     {
       "id": "05_adzan-shubuh-abu-hazim",
-      "name": "Adzan-Shubuh-Abu-Hazim",
+      "name": "Abu Hazim Fajr",
       "type": "subuh",
       "file": "subuh/05_Adzan-Shubuh-Abu-Hazim.mp3",
       "size": 2285568,
