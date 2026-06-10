@@ -1,0 +1,17 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm'
+}
+
+dependencies {
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.1'
+    implementation 'com.squareup.okhttp3:okhttp:4.12.0'
+    implementation 'org.json:json:20240303'
+    implementation 'org.xerial:sqlite-jdbc:3.46.0.0'
+}
+
+tasks.register('runGenerator', JavaExec) {
+    group = 'tools'
+    description = 'Runs HadeethEncGenerator'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'com.alquranplus.tools.HadeethEncGenerator'
+}
