@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "last_updated": "2026-06-10 15:12:18",
+  "adhans": [
+    {
+      "id": "01_madinah_normal",
+      "name": "Madinah Normal",
+      "type": "normal",
+      "file": "normal/01_madinah_normal.mp3",
+      "size": 95765,
+      "sha256": "9679155019f56b4d8c27c8d8f92961d5d9c5996aac4721ac8752db5e3fd3a6e8"
+    },
+    {
+      "id": "02_indonesia_normal",
+      "name": "Indonesia Normal",
+      "type": "normal",
+      "file": "normal/02_indonesia_normal.mp3",
+      "size": 1873336,
+      "sha256": "4806a0626b9dfb04f11673a7a73a3af99afcd43615212b25ff9e00818588adce"
+    },
+    {
+      "id": "03_makkah_normal",
+      "name": "Makkah Normal",
+      "type": "normal",
+      "file": "normal/03_makkah_normal.mp3",
+      "size": 1423360,
+      "sha256": "43ade766272ff9c89c86908959df6ddd7f3a34961897caf09f965a3841e1bcd2"
+    },
+    {
+      "id": "04_adzan-misyari-rasyid",
+      "name": "Adzan-Misyari-Rasyid",
+      "type": "normal",
+      "file": "normal/04_Adzan-Misyari-Rasyid.mp3",
+      "size": 3713152,
+      "sha256": "545da9c890916ce918ed0e82df9b5e37169aafd638cdb3dfe61d41caa39b016f"
+    },
+    {
+      "id": "05_adzan_by_mishari_rashid_al-afasy-2",
+      "name": "Adzan By Mishari Rashid Al-Afasy-2",
+      "type": "normal",
+      "file": "normal/05_adzan_by_mishari_rashid_al-afasy-2.mp3",
+      "size": 639007,
+      "sha256": "b650e89a8141fa783da5947e2743e58d043ac29c982243761d4828b69aecb49d"
+    },
+    {
+      "id": "06_adhan_by_muhammad_al-luhaidan",
+      "name": "Adhan By Muhammad Al-Luhaidan",
+      "type": "normal",
+      "file": "normal/06_adhan_by_muhammad_al-luhaidan.mp3",
+      "size": 524277,
+      "sha256": "6c4124e1844fa9d36ce3f924b911a9cb278d4304906cd2356758d37115a071ce"
+    },
+    {
+      "id": "07_yusuf-maati-adzan",
+      "name": "Yusuf-Maati-Adzan",
+      "type": "normal",
+      "file": "normal/07_Yusuf-Maati-Adzan.mp3",
+      "size": 1998085,
+      "sha256": "21d76724e69f2916659d9e37779dafe204a828730dff0b30112401dbd6bc8b47"
+    },
+    {
+      "id": "08_adhan_from_hawai_by_abderrahim_ed",
+      "name": "Adhan From Hawai By Abderrahim Ed",
+      "type": "normal",
+      "file": "normal/08_adhan_from_hawai_by_abderrahim_ed.mp3",
+      "size": 734197,
+      "sha256": "3b8dbeeb27ca4ce4df3b8bb440299aef88d680083203509a3817eb880d7a27f4"
+    },
+    {
+      "id": "09_adzan-yusuf-islam-cat-steven",
+      "name": "Adzan-Yusuf-Islam-Cat-Steven",
+      "type": "normal",
+      "file": "normal/09_Adzan-Yusuf-Islam-cat-steven.mp3",
+      "size": 593920,
+      "sha256": "bba398c3da5c4387bb859343b9e5b3dbeb42dd326f173ff238fd49b5a2318d04"
+    },
+    {
+      "id": "10_adzan-muhammad-taha-bajunaid",
+      "name": "Adzan-Muhammad-Taha-Bajunaid",
+      "type": "normal",
+      "file": "normal/10_Adzan-Muhammad-Taha-Bajunaid.mp3",
+      "size": 3680256,
+      "sha256": "dea6cfd95e6bc1d19330217c3f872c8254a11c680c4728ebb37ed112aadf5dfd"
+    },
+    {
+      "id": "11_pakistan-adzan",
+      "name": "Pakistan-Adzan",
+      "type": "normal",
+      "file": "normal/11_Pakistan-Adzan.mp3",
+      "size": 737888,
+      "sha256": "8e310cc4470aacf6c6b9721316ec2ceb28e3c33b86aedb0f793f42a80dde3dff"
+    },
+    {
+      "id": "11_athan_by_child_ahmet",
+      "name": "Athan By Child Ahmet",
+      "type": "normal",
+      "file": "normal/11_athan_by_child_ahmet.mp3",
+      "size": 1042860,
+      "sha256": "690c5d10dad0f9e2b093858122120243c06cca9d5e2965b322a8711554d51d94"
+    },
+    {
+      "id": "12_mecca-adzan-2",
+      "name": "Mecca-Adzan-2",
+      "type": "normal",
+      "file": "normal/12_Mecca-Adzan-2.mp3",
+      "size": 487824,
+      "sha256": "25a42967e8fede97a23394980174336d5d8c84195a0c9b457edc2b52ac9408e8"
+    },
+    {
+      "id": "13_adan_madinah_32_16",
+      "name": "Adan Madinah 32 16",
+      "type": "normal",
+      "file": "normal/13_adan_madinah_32_16.mp3",
+      "size": 684160,
+      "sha256": "81e193784dc1ea0fba453dfe7edd493478086009db0ba6af37e907c8226aa9f3"
+    },
+    {
+      "id": "14_athan_egypt",
+      "name": "Athan Egypt",
+      "type": "normal",
+      "file": "normal/14_athan_egypt.mp3",
+      "size": 891008,
+      "sha256": "52135a06332a89ae3811be32cd47203c13872676394f434088df9d0ad54ce062"
+    },
+    {
+      "id": "15_adzan-mesir-1",
+      "name": "Adzan-Mesir-1",
+      "type": "normal",
+      "file": "normal/15_adzan-mesir-1.mp3",
+      "size": 743424,
+      "sha256": "0ceb75d50cf5b2d1c91f88e89221403c1cee5da6849384ef99895c0780171c10"
+    },
+    {
+      "id": "16_adzan-mesir-3",
+      "name": "Adzan-Mesir-3",
+      "type": "normal",
+      "file": "normal/16_adzan-mesir-3.mp3",
+      "size": 641152,
+      "sha256": "39e41cdb29fd27213ead11b75e9e3bab90a79ad07f2a6f450eee45ef70fe95b2"
+    },
+    {
+      "id": "17_alaqsa2_64_22",
+      "name": "Alaqsa2 64 22",
+      "type": "normal",
+      "file": "normal/17_alaqsa2_64_22.mp3",
+      "size": 1804288,
+      "sha256": "45b07b4a9845c07334bbdbef95ab0cd61244aa73390aac5b404d9e72fae90489"
+    },
+    {
+      "id": "18_adzan-imam-malaysia",
+      "name": "Adzan-Imam-Malaysia",
+      "type": "normal",
+      "file": "normal/18_Adzan-imam-Malaysia.mp3",
+      "size": 3602432,
+      "sha256": "18835260d6f0bb4744e0a0ea9acc3ad1a3e7ad88c92504f0374ea6da91cc16ae"
+    },
+    {
+      "id": "19_adzan-bosnia",
+      "name": "Adzan-Bosnia",
+      "type": "normal",
+      "file": "normal/19_Adzan-Bosnia.mp3",
+      "size": 1286144,
+      "sha256": "f28acda0072a085abc6965e69f607a280cb6cafcd452197ea92071065c4cdea0"
+    },
+    {
+      "id": "ahmad-nafees-adzan",
+      "name": "Ahmad-Nafees-Adzan",
+      "type": "normal",
+      "file": "normal/Ahmad-Nafees-Adzan.mp3",
+      "size": 3385735,
+      "sha256": "0a5f7b994e19a112853c243fb1a14ac31767c872957022427aff0b6039a6f465"
+    },
+    {
+      "id": "hussein-rajab-adzan",
+      "name": "Hussein-Rajab-Adzan",
+      "type": "normal",
+      "file": "normal/Hussein-Rajab-Adzan.mp3",
+      "size": 770093,
+      "sha256": "af04076041672231915b4974b01e85b9d739283a28091249c78472f57c782197"
+    },
+    {
+      "id": "ibrahim-as-sadee-adzan",
+      "name": "Ibrahim-As-Sadee-Adzan",
+      "type": "normal",
+      "file": "normal/Ibrahim-As-Sadee-Adzan.mp3",
+      "size": 1948896,
+      "sha256": "001a19a5f0191135cfbe876947408ef6526fbcf597126360984ce7d244cdc7c6"
+    },
+    {
+      "id": "syria-adzan",
+      "name": "Syria-Adzan",
+      "type": "normal",
+      "file": "normal/Syria-Adzan.mp3",
+      "size": 895816,
+      "sha256": "26fda5951479fffc33f71b8f3a74ef1a58536c2afa6b372495a90f451ff5d388"
+    },
+    {
+      "id": "adzan_abdel_baset",
+      "name": "Adzan Abdel Baset",
+      "type": "normal",
+      "file": "normal/adzan_abdel_baset.mp3",
+      "size": 499961,
+      "sha256": "c201d6907eb4b93625ad655e8dd44b3369b02919ee13c7ffaba0cb4df2389f8b"
+    },
+    {
+      "id": "adzan_turkey-1",
+      "name": "Adzan Turkey-1",
+      "type": "normal",
+      "file": "normal/adzan_turkey-1.mp3",
+      "size": 1443377,
+      "sha256": "532d90ad4060ac1ebc068536bbbf9c98c46758725a25ebc370fcebd6ce131b44"
+    },
+    {
+      "id": "adzan_turkey-2",
+      "name": "Adzan Turkey-2",
+      "type": "normal",
+      "file": "normal/adzan_turkey-2.mp3",
+      "size": 1587449,
+      "sha256": "6653cb782d687be4c2c915b322d9a4475d328cd15cd83cad23a91687fcdf0248"
+    },
+    {
+      "id": "adzan_uea",
+      "name": "Adzan Uea",
+      "type": "normal",
+      "file": "normal/adzan_uea.mp3",
+      "size": 658433,
+      "sha256": "76f97dc02d2540277bbdde9fcde764741e3d978f21b3f060809df6a64f5e3ce6"
+    },
+    {
+      "id": "azan_di_tv9_malaysia",
+      "name": "Azan Di Tv9 Malaysia",
+      "type": "normal",
+      "file": "normal/azan_di_tv9_malaysia.mp3",
+      "size": 507349,
+      "sha256": "41caf3a2fa498d68818ad8f1ebf2ff85007e6a47dca512997908ad0147ea525b"
+    },
+    {
+      "id": "ezan_from_europe",
+      "name": "Ezan From Europe",
+      "type": "normal",
+      "file": "normal/ezan_from_europe.mp3",
+      "size": 1097508,
+      "sha256": "9ade918726615dddc4341de93bf9794bb8cd0702fb4ba34cba50d104be04d454"
+    },
+    {
+      "id": "01_madinah_subuh",
+      "name": "Madinah Subuh",
+      "type": "subuh",
+      "file": "subuh/01_madinah_subuh.mp3",
+      "size": 641262,
+      "sha256": "a2da3fece50fc0d77a6265690195f7cd27bd46ffff86d778210141fe10dd18e6"
+    },
+    {
+      "id": "02_indonesia_subuh",
+      "name": "Indonesia Subuh",
+      "type": "subuh",
+      "file": "subuh/02_indonesia_subuh.mp3",
+      "size": 2161193,
+      "sha256": "4e579688a05cc64a264a0f3f34fbedd3cd5b47dbab9ed56eefa824a33b936495"
+    },
+    {
+      "id": "03_makkah_subuh",
+      "name": "Makkah Subuh",
+      "type": "subuh",
+      "file": "subuh/03_makkah_subuh.mp3",
+      "size": 1112086,
+      "sha256": "cf6406ff362d011164b757638c90e2d05bce29c5d56d57a09dd239b112a6d188"
+    },
+    {
+      "id": "04_madina-adzan-fajr",
+      "name": "Madina-Adzan-Fajr",
+      "type": "subuh",
+      "file": "subuh/04_Madina-Adzan-Fajr.mp3",
+      "size": 706744,
+      "sha256": "29b076d0e0eb2b279768d3e7a7787144131435400be2ddc3ed00049d60e2db34"
+    },
+    {
+      "id": "05_adzan-shubuh-abu-hazim",
+      "name": "Adzan-Shubuh-Abu-Hazim",
+      "type": "subuh",
+      "file": "subuh/05_Adzan-Shubuh-Abu-Hazim.mp3",
+      "size": 2285568,
+      "sha256": "b620c7c5db79f516449b9495ee99f8157cb4a305c81a4612722ebb761354e11f"
+    }
+  ]
+}
