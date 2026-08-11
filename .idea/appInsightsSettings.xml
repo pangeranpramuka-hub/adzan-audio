@@ -35,6 +35,14 @@
         <entry key="Firebase Crashlytics">
           <value>
             <InsightsFilterSettings>
+              <option name="connection">
+                <ConnectionSetting>
+                  <option name="appId" value="com.alquranplus.app" />
+                  <option name="mobileSdkAppId" value="1:382136935074:android:3bf1383d5cde54a960edfb" />
+                  <option name="projectId" value="al-qur-an-plus" />
+                  <option name="projectNumber" value="382136935074" />
+                </ConnectionSetting>
+              </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
               <option name="timeIntervalDays" value="THIRTY_DAYS" />
               <option name="visibilityType" value="ALL" />

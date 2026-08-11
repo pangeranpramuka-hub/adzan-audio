@@ -35,15 +35,20 @@ class HadeethEncGenerator {
     private val semaphore = Semaphore(3) // Download paralel terbatas agar stabil
 
     suspend fun run() {
-        // Target bahasa yang ingin di-generate ulang (Sinkron dengan GitHub & App: 32 bahasa)
+        // Hanya memproses bahasa BARU yang belum ada di GitHub
         val languages = listOf(
-            "am", "ar", "az", "bn", "bs", "de", "en", "es", "fa", "fr", "ha",
-            "hi", "id", "ku", "ml", "ms", "om", "pa", "ps", "pt", "ru", "so", "sq",
-            "sw", "ta", "te", "th", "tr", "ur", "uz", "yo", "zh"
+            "ps", // Pashto
+            "ja", // Japanese
+            "ko", // Korean
+            "it", // Italian
+            "si", // Sinhalese
+            "vi", // Vietnamese
+            "km", // Khmer
+            "as"  // Assamese
         )
         
-        println("=== HadeethEnc Generator Turbo (Audited & Improved) ===")
-        println("Daftar Bahasa Valid (${languages.size}): ${languages.joinToString(", ")}")
+        println("=== HadeethEnc Generator Turbo (Hanya Bahasa Baru) ===")
+        println("Memproses ${languages.size} bahasa: ${languages.joinToString(", ")}")
         
         languages.forEachIndexed { index, lang ->
             try {
