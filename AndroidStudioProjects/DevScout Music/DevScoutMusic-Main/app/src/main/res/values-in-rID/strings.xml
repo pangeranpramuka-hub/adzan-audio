@@ -464,7 +464,7 @@
     <string name="discord_integration">Integrasi Discord</string>
     <string name="discord_login_description">Hubungkan akun Discord Anda dengan OAuth agar DevScout Music dapat mempublikasikan Rich Presence.</string>
     <string name="discord_open_authorization">Buka otorisasi Discord</string>
-    <string name="discord_waiting_for_authorization">Menunggu otorisasi Discord...</string>
+    <string name="discord_waiting_for_authorization">Menunggu otorisasi Discord…</string>
     <string name="discord_authorization_success">Akun Discord terhubung</string>
     <string name="discord_authorization_failed">Otorisasi Discord gagal</string>
     <string name="discord_account_ready">DevScout Music siap mempublikasikan Rich Presence untuk sesi mendengarkan Anda.</string>

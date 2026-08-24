@@ -7,7 +7,7 @@
     <string name="music_recognition_processing">Processing.</string>
     <string name="music_recognition_listen_again">Listen again</string>
     <string name="music_recognition_no_match">No match found</string>
-    <string name="music_recognition_signature_failed">Couldn't generate a signature</string>
+    <string name="music_recognition_signature_failed">Couldn\'t generate a signature</string>
     <string name="music_recognition_recognition_failed">Recognition failed</string>
     <string name="music_recognition_open_shazam">Open Shazam</string>
     <string name="music_recognition_lyrics_preview">Lyrics preview</string>
@@ -36,7 +36,7 @@
     <string name="music_recognition_notification_isrc">ISRC: %1$s</string>
     <string name="music_recognition_notification_no_match_title">No song found</string>
     <string name="music_recognition_notification_no_match_text">Keep the music playing clearly, then try recognition again.</string>
-    <string name="music_recognition_notification_recording_failed_title">Couldn't capture device audio</string>
+    <string name="music_recognition_notification_recording_failed_title">Couldn\'t capture device audio</string>
     <string name="music_recognition_notification_recording_failed_text">The playing app may block audio capture, or playback may have stopped.</string>
     <string name="music_recognition_notification_signature_failed_text">The captured audio did not contain enough music to identify.</string>
     <string name="music_recognition_notification_recognition_failed_text">The recognition service could not identify this audio. Try again shortly.</string>
@@ -55,7 +55,7 @@
     <string name="history_remote_loading">Syncing remote history</string>
     <string name="history_remote_empty_title">No remote history available</string>
     <string name="history_remote_empty_desc">Your synced watch history will appear here after you listen on YouTube Music.</string>
-    <string name="history_remote_error_title">Couldn't load remote history</string>
+    <string name="history_remote_error_title">Couldn\'t load remote history</string>
     <string name="history_remote_error_desc">Try again in a moment.</string>
     <string name="history_no_results_title">No matching songs</string>
     <string name="history_no_results_desc">Try a different song or artist name.</string>
@@ -66,7 +66,7 @@
     <string name="local_songs_permission_body">Allow storage access to scan audio files stored on this device.</string>
     <string name="local_songs_empty_title">No local songs found</string>
     <string name="local_songs_empty_desc">Open settings from the top bar and run a device scan to find offline audio on this device.</string>
-    <string name="local_songs_scan_failed">Couldn't finish scanning this device.</string>
+    <string name="local_songs_scan_failed">Couldn\'t finish scanning this device.</string>
     <string name="local_songs_scan_summary">Last scan: %1$d songs found, %2$d removed</string>
     <string name="local_songs_scan_title">Scan local songs</string>
     <string name="local_songs_scan_subtitle">Refresh songs stored on this device and update the local library metadata.</string>
@@ -243,7 +243,7 @@
     <string name="playlist_sync_progress_step">%1$d/%2$d Songs</string>
     <string name="playlist_sync_failed">Playlist sync failed: %1$s</string>
     <string name="sync_disabled">Sync disabled</string>
-    <string name="allows_for_sync_witch_youtube">Note: This allows for syncing with YouTube Music. This is NOT changeable later.</string>
+    <string name="allows_for_sync_with_youtube">Note: This allows for syncing with YouTube Music. This is NOT changeable later.</string>
     <string name="generating_image">Generating image</string>
     <string name="please_wait">Please wait</string>
     <string name="cancel">Cancel</string>
@@ -321,7 +321,7 @@
     <string name="seek_forward_dynamic">+%1$d seconds forwards</string>
     <string name="seek_backward_dynamic">-%1$d seconds backwards</string>
     <string name="seek_seconds_addup">Progressive seek</string>
-    <string name="seek_seconds_addup_description">If enabled,  Adds up 5 extra seconds incrementally on each seek skip</string>
+    <string name="seek_seconds_addup_description">If enabled, adds up 5 extra seconds incrementally on each seek skip</string>
     <string name="player_background_style">Player background style</string>
     <string name="lyrics_background_style">Lyrics background style</string>
     <string name="lyrics_background_default">Default</string>
@@ -376,7 +376,7 @@
     <string name="arrange_library_chips_desc">Choose the order of tabs shown in your library</string>
     <string name="set_quick_picks">Set quick picks</string>
     <string name="last_song_listened">Based on last song listened</string>
-    <string name="dont_show">Dont Show</string>
+    <string name="dont_show">Don\'t Show</string>
     <string name="app_language">App language</string>
     <string name="use_system_language">Use system language</string>
     <string name="open_supported_links">Open supported link by default</string>
@@ -397,19 +397,19 @@
     <string name="storage_location_removable_named">SD card %s</string>
     <string name="storage_location_free">%s free</string>
     <string name="storage_location_apply">Use this storage</string>
-    <string name="storage_migration_cache_progress">Moving Cache...%1$d%%</string>
-    <string name="storage_migration_downloads_progress">Moving Downloads...%1$d%%</string>
-    <string name="storage_migration_warning">Warning: Dont close the app or turn off your device during this process. Doing so may cause data loss.</string>
+    <string name="storage_migration_cache_progress">Moving Cache… %1$d%%</string>
+    <string name="storage_migration_downloads_progress">Moving Downloads… %1$d%%</string>
+    <string name="storage_migration_warning">Warning: Don\'t close the app or turn off your device during this process. Doing so may cause data loss.</string>
     <string name="storage_folder_selected_restart">Storage folder saved. App will restart in 3 seconds.</string>
     <string name="storage_folder_invalid">Select a valid folder.</string>
     <string name="storage_folder_unsupported">This folder cannot be used by the file-backed media cache.</string>
     <string name="storage_folder_not_writable">DevScout Music cannot write cache files in this folder.</string>
     <string name="storage_cache_cleared">Cache cleared.</string>
     <string name="storage_cache_clear_failed">Cache could not be cleared. Check SD card access.</string>
-    <string name="storage_clear_song_cache_progress">Clearing song cache...%1$d%%</string>
-    <string name="storage_clear_downloads_progress">Clearing downloads...%1$d%%</string>
-    <string name="storage_clear_image_cache_progress">Clearing image cache...%1$d%%</string>
-    <string name="storage_clear_canvas_cache_progress">Clearing canvas cache...%1$d%%</string>
+    <string name="storage_clear_song_cache_progress">Clearing song cache… %1$d%%</string>
+    <string name="storage_clear_downloads_progress">Clearing downloads… %1$d%%</string>
+    <string name="storage_clear_image_cache_progress">Clearing image cache… %1$d%%</string>
+    <string name="storage_clear_canvas_cache_progress">Clearing canvas cache… %1$d%%</string>
     <string name="storage_cache_clear_warning">Keep DevScout Music open while cache files are being removed.</string>
     <string name="storage_size_ratio">%1$s / %2$s</string>
     <string name="sensitivity_percentage">%1$d%%</string>
@@ -479,7 +479,7 @@
     <string name="player_stream_client">Playback client</string>
     <string name="player_stream_client_desc">Controls which playback source is used to fetch streams</string>
     <string name="player_stream_client_web_remix">Web Remix</string>
-    <string name="player_stream_client_web_remix_desc">Extended format support at the cost of speed. JavaScript signature decryption introduces a ~5-10 second startup delay.</string>
+    <string name="player_stream_client_web_remix_desc">Extended format support at the cost of speed. JavaScript signature decryption introduces a ~5–10 second startup delay.</string>
     <string name="player_stream_client_archivetune_extractor">DevScout Music Extractor</string>
     <string name="settings_section_player_content">Player &amp; Content</string>
     <string name="settings_appearance_subtitle">Themes, layout, and visual styles</string>
@@ -633,7 +633,7 @@
     <string name="change_song_source_desc">Replace this playlist entry from Local or YouTube Music.</string>
     <string name="replace_song">Replace song</string>
     <string name="song_source_changed">Song source changed.</string>
-    <string name="song_source_change_failed">Couldn't change the song source.</string>
+    <string name="song_source_change_failed">Couldn\'t change the song source.</string>
     <string name="import_preparing">Preparing import.</string>
     <string name="import_matching_progress">Matching: %1$d/%2$d</string>
     <string name="import_saving">Saving import…</string>

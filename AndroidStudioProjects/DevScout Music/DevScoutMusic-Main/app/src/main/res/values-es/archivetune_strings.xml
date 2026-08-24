@@ -19,7 +19,7 @@
     <string name="cached_playlist">En caché</string>
     <string name="sync_playlist">Playlist sincronizada</string>
     <string name="sync_disabled">Sincronización deshabilitada</string>
-    <string name="allows_for_sync_witch_youtube">Nota: Esto permite la sincronización con YouTube Music. Esto no se puede cambiar después.</string>
+    <string name="allows_for_sync_with_youtube">Nota: Esto permite la sincronización con YouTube Music. Esto no se puede cambiar después.</string>
     <string name="generating_image">Generando imagen</string>
     <string name="please_wait">Espere por favor</string>
     <string name="cancel">Cancelar</string>

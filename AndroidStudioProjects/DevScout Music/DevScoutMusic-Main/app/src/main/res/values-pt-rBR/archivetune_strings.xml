@@ -173,7 +173,7 @@
     <string name="playlist_sync_progress_step">%1$d/%2$d músicas</string>
     <string name="playlist_sync_failed">Falha ao sincronizar playlist: %1$s</string>
     <string name="sync_disabled">Sincronização desativada</string>
-    <string name="allows_for_sync_witch_youtube">Observação: isso permite sincronizar com o YouTube Music. Não será possível alterar depois.</string>
+    <string name="allows_for_sync_with_youtube">Observação: isso permite sincronizar com o YouTube Music. Não será possível alterar depois.</string>
     <string name="generating_image">Gerando imagem</string>
     <string name="please_wait">Aguarde</string>
     <string name="cancel">Cancelar</string>

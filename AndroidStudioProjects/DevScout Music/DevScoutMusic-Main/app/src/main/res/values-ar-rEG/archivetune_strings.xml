@@ -172,7 +172,7 @@
     <string name="playlist_sync_progress_step">%1$d/%2$d تراكات</string>
     <string name="playlist_sync_failed">فشلت مزامنة البلاي ليست: %1$s</string>
     <string name="sync_disabled">المزامنة معطلة</string>
-    <string name="allows_for_sync_witch_youtube">تنبيه: ده بيسمح بالمزامنة مع يوتيوب ميوزك. مش هتقدر تغير ده بعدين.</string>
+    <string name="allows_for_sync_with_youtube">تنبيه: ده بيسمح بالمزامنة مع يوتيوب ميوزك. مش هتقدر تغير ده بعدين.</string>
     <string name="generating_image">جاري إنشاء الصورة</string>
     <string name="please_wait">برجاء الانتظار</string>
     <string name="cancel">إلغاء</string>

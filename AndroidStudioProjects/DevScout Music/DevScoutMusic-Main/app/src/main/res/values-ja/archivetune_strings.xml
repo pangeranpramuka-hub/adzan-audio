@@ -243,7 +243,7 @@
     <string name="playlist_sync_progress_step">%1$d/%2$d 曲</string>
     <string name="playlist_sync_failed">プレイリストの同期に失敗しました: %1$s</string>
     <string name="sync_disabled">同期は無効です</string>
-    <string name="allows_for_sync_witch_youtube">注: これにより、YouTube Music との同期が可能になります。これは後から変更することはできません。</string>
+    <string name="allows_for_sync_with_youtube">注: これにより、YouTube Music との同期が可能になります。これは後から変更することはできません。</string>
     <string name="generating_image">画像の生成</string>
     <string name="please_wait">お待ちください</string>
     <string name="cancel">キャンセル</string>

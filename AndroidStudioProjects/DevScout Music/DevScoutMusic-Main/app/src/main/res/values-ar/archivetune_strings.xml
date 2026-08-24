@@ -1,4 +1,4 @@
-﻿﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="explore">تصفح</string>
     <string name="local_history">على الجهاز</string>
@@ -21,7 +21,7 @@
     <string name="cached_playlist">الأغاني المخزنة مؤقتًا</string>
     <string name="sync_playlist">مزامنة قائمة التشغيل</string>
     <string name="sync_disabled">المزامنة غير مفعلة</string>
-    <string name="allows_for_sync_witch_youtube">ملاحظة: يسمح هذا بالمزامنة مع YouTube Music. لا يمكن تغيير هذا لاحقًا.</string>
+    <string name="allows_for_sync_with_youtube">ملاحظة: يسمح هذا بالمزامنة مع YouTube Music. لا يمكن تغيير هذا لاحقًا.</string>
     <string name="generating_image">جاري إنشاء الصورة</string>
     <string name="please_wait">انتظر من فضلك</string>
     <string name="cancel">إلغاء</string>
@@ -435,8 +435,8 @@
     <string name="storage_location_removable_named">بطاقة SD %s</string>
     <string name="storage_location_free">%s متاح</string>
     <string name="storage_location_apply">استخدام وحدة التخزين هذه</string>
-    <string name="storage_migration_cache_progress">جاري نقل ذاكرة التخزين المؤقت...%1$d%%</string>
-    <string name="storage_migration_downloads_progress">جاري نقل التنزيلات...%1$d%%</string>
+    <string name="storage_migration_cache_progress">جari نقل ذاكرة التخزين المؤقت…%1$d%%</string>
+    <string name="storage_migration_downloads_progress">جاري نقل التنزيلات…%1$d%%</string>
     <string name="storage_migration_warning">تحذير: لا تغلق التطبيق أو توقف تشغيل جهازك أثناء هذه العملية. قد يؤدي ذلك إلى فقدان البيانات.</string>
     <string name="storage_folder_selected_restart">تم حفظ مجلد التخزين. سيتم إعادة تشغيل التطبيق خلال 3 ثوانٍ.</string>
     <string name="storage_folder_invalid">اختر مجلدًا صالحًا.</string>
@@ -444,10 +444,10 @@
     <string name="storage_folder_not_writable">لا يمكن لـ DevScout Music كتابة ملفات التخزين المؤقت في هذا المجلد.</string>
     <string name="storage_cache_cleared">تم مسح ذاكرة التخزين المؤقت.</string>
     <string name="storage_cache_clear_failed">تعذر مسح ذاكرة التخزين المؤقت. تحقق من الوصول إلى بطاقة SD.</string>
-    <string name="storage_clear_song_cache_progress">جاري مسح ذاكرة التخزين المؤقت للأغاني...%1$d%%</string>
-    <string name="storage_clear_downloads_progress">جاري مسح التنزيلات...%1$d%%</string>
-    <string name="storage_clear_image_cache_progress">جاري مسح ذاكرة التخزين المؤقت للصور...%1$d%%</string>
-    <string name="storage_clear_canvas_cache_progress">جاري مسح ذاكرة التخزين المؤقت للشاشة التفاعلية...%1$d%%</string>
+    <string name="storage_clear_song_cache_progress">جاري مسح ذاكرة التخزين المؤقت للأغاني…%1$d%%</string>
+    <string name="storage_clear_downloads_progress">جاري مسح التنزيلات…%1$d%%</string>
+    <string name="storage_clear_image_cache_progress">جاري مسح ذاكرة التخزين المؤقت للصور…%1$d%%</string>
+    <string name="storage_clear_canvas_cache_progress">جاري مسح ذاكرة التخزين المؤقت للشاشة التفاعلية…%1$d%%</string>
     <string name="storage_cache_clear_warning">أبقِ DevScout Music مفتوحًا أثناء إزالة ملفات التخزين المؤقت.</string>
     <string name="storage_size_ratio">%1$s / %2$s</string>
     <string name="canvas_cache">ذاكرة التخزين المؤقت للشاشة التفاعلية</string>

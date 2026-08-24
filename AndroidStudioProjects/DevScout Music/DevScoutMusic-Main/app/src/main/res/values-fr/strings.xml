@@ -7,7 +7,6 @@
     <string name="playlists">Playlists</string>
     <plurals name="n_selected">
         <item quantity="one">%d sélectionné</item>
-        <item quantity="many">%d sélectionnés</item>
         <item quantity="other">%d sélectionnés</item>
     </plurals>
     <string name="history">Historique</string>
@@ -147,7 +146,7 @@
     <string name="sleep_timer">Minuterie de Sommeil</string>
     <string name="end_of_song">Fin du titre</string>
     <plurals name="minute">
-        <item quantity="one">1 minute</item>
+        <item quantity="one">%d minute</item>
         <item quantity="many">%d minutes</item>
         <item quantity="other">%d minutes</item>
     </plurals>
@@ -791,7 +790,7 @@
     <string name="discord_presence_idle">Inactif</string>
     <string name="grid_view">Affichage en grille</string>
     <string name="device_mute_recovery_volume">Augmenter le volume à partir de 0</string>
-    <string name="discord_waiting_for_authorization">En attente de l\'autorisation Discord...</string>
+    <string name="discord_waiting_for_authorization">En attente de l\'autorisation Discord…</string>
     <string name="recently_added">Ajoutés récemment</string>
     <string name="discord_platform_xbox">Xbox</string>
     <string name="top_mixes">Les Meilleurs Mixages pour Vous</string>
@@ -844,7 +843,7 @@
     <string name="widget_listening_time_minutes">%1$d min</string>
     <string name="widget_listening_time_hours_minutes">%1$d h %2$d min</string>
     <plurals name="widget_total_plays">
-        <item quantity="one">1 lecture</item>
+        <item quantity="one">%d lecture</item>
         <item quantity="many">%d lectures</item>
         <item quantity="other">%d lectures</item>
     </plurals>
