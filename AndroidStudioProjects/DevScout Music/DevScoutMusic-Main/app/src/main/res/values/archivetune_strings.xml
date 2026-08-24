@@ -66,7 +66,7 @@
     <string name="local_songs_permission_body">Allow storage access to scan audio files stored on this device.</string>
     <string name="local_songs_empty_title">No local songs found</string>
     <string name="local_songs_empty_desc">Open settings from the top bar and run a device scan to find offline audio on this device.</string>
-    <string name="local_songs_scan_failed">Couldn�?Tt finish scanning this device.</string>
+    <string name="local_songs_scan_failed">Couldn't finish scanning this device.</string>
     <string name="local_songs_scan_summary">Last scan: %1$d songs found, %2$d removed</string>
     <string name="local_songs_scan_title">Scan local songs</string>
     <string name="local_songs_scan_subtitle">Refresh songs stored on this device and update the local library metadata.</string>
@@ -96,14 +96,14 @@
     <string name="news_error_title">Couldn\'t load news</string>
     <string name="news_error_desc">Check your internet connection and try again.</string>
     <string name="news_retry">Retry</string>
-    <string name="news_search_placeholder">Search news�?�</string>
+    <string name="news_search_placeholder">Search news…</string>
     <string name="news_search_results_title">Search results</string>
     <string name="news_no_results_title">No matching articles</string>
     <string name="news_no_results_desc">Try a different search term.</string>
     <string name="news_important_badge">Important</string>
     <string name="news_tooltip_title">New Announcements</string>
     <string name="news_tooltip_body">You have unread announcements from developers.</string>
-    <string name="news_author_on_date">%1$s � %2$s</string>
+    <string name="news_author_on_date">%1$s · %2$s</string>
     <plurals name="news_article_count">
         <item quantity="one">%d article</item>
         <item quantity="other">%d articles</item>
@@ -628,7 +628,7 @@
     <string name="import_search_local">Search Local</string>
     <string name="import_search_youtube">Search YouTube</string>
     <string name="import_no_search_results">No matching songs found.</string>
-    <string name="import_matched_to">Matched to: %1$s �?" %2$s</string>
+    <string name="import_matched_to">Matched to: %1$s — %2$s</string>
     <string name="change_song_source">Change source</string>
     <string name="change_song_source_desc">Replace this playlist entry from Local or YouTube Music.</string>
     <string name="replace_song">Replace song</string>
@@ -636,7 +636,7 @@
     <string name="song_source_change_failed">Couldn't change the song source.</string>
     <string name="import_preparing">Preparing import.</string>
     <string name="import_matching_progress">Matching: %1$d/%2$d</string>
-    <string name="import_saving">Saving import�?�</string>
+    <string name="import_saving">Saving import…</string>
     <string name="import_saving_progress">Saving: %1$d/%2$d</string>
     <string name="spotify_connect">Connect Spotify</string>
     <string name="spotify_available_count">%1$d playlists available</string>
@@ -666,7 +666,7 @@
     <string name="ai_api_key_missing">Required before AI features can run.</string>
     <string name="ai_api_key_configured">Configured</string>
     <string name="ai_test_api">Test API</string>
-    <string name="ai_api_testing">Testing connection�?�</string>
+    <string name="ai_api_testing">Testing connection…</string>
     <string name="ai_api_status_unknown">Not tested</string>
     <string name="ai_api_status_success">API ready</string>
     <string name="ai_api_status_failed">API failed. Test again after updating settings.</string>
@@ -718,7 +718,7 @@
     <string name="about_position_developers">Developer | Team</string>
     <string name="about_position_yuki">dummy reze | Admin</string>
     <string name="about_position_mo_agamy">Base Framework | Metrolist</string>
-    <string name="about_position_zion_huang">Creator of InnerTune � Foundation for Metrolist, DevScout Music, and other forks</string>
+    <string name="about_position_zion_huang">Creator of InnerTune · Foundation for Metrolist, DevScout Music, and other forks</string>
     <string name="about_content_desc_github">GitHub</string>
     <string name="about_content_desc_website">Website</string>
     <string name="about_content_desc_discord">Discord</string>
