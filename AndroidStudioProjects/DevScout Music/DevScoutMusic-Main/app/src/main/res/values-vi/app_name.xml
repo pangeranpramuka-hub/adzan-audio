@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DevScout Music</string>
+    <string name="widget_description">Hi?n th? b�i h�t dang ph�t v?i c�c di?u khi?n ph�t l?i</string>
+    <string name="widget_album_art_description">Widget ?nh b�a album v?i di?u khi?n ph�t l?i n?i</string>
+    <string name="widget_now_playing_card_description">Th? dang ph�t v?i ?nh b�a, ti?n tr�nh v� di?u khi?n ph�t l?i</string>
+    <string name="widget_playback_deck_description">M�n h�nh dang ph�t l?n v?i ?nh b�a, ti?n tr�nh v� di?u khi?n ph�t l?i</string>
+    <string name="widget_playback_capsule_description">Vi�n nang ph�t l?i bi?u c?m v?i ?nh b�a, ti?n tr�nh v� di?u khi?n ph�t</string>
+    <string name="widget_playback_spotlight_description">Widget spotlight ?nh b�a v?i di?u khi?n ph�t l?i bi?u c?m</string>
+    <string name="widget_playback_command_description">Widget ph�t l?i uu ti�n di?u khi?n v?i ?nh b�a, ti?n tr�nh v� n�t b? qua</string>
+    <string name="widget_listening_insights_description">Widget th�ng tin chi ti?t nghe nh?c v?i c�c b�i h�t g?n d�y, th? lo?i v� d? xu?t</string>
+</resources>
+

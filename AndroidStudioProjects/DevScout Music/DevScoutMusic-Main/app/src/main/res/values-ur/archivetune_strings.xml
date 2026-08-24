@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="explore">در�Oافت</string>
+    <string name="suggestions">تج�^�Oزات</string>
+    <string name="music_recognition_tap_to_listen">س�?�?�' ک�' �"ئ�' ضرب �"گائ�Oں</string>
+    <string name="music_recognition_listening">�?�س�?�?ا جار�O�?�</string>
+    <string name="music_recognition_processing">�?�ع�.�" �.�Oں�?�</string>
+    <string name="music_recognition_listen_again">د�^بارہ س�?�O�'</string>
+    <string name="music_recognition_no_match">ک�^ئ �.�O�" �?ہ �.�"ا</string>
+    <string name="music_recognition_signature_failed">دستخت ت�^�"�Oد �?ہ کر سکا</string>
+    <string name="music_recognition_recognition_failed">ش�?اخت �?ا کا�.�Oاب</string>
+    <string name="music_recognition_open_shazam">شازا�. کھ�^�"�Oں</string>
+    <string name="music_recognition_lyrics_preview">ک�"�.ات پ�Oش �?ظارہ</string>
+    <string name="music_recognition_permission_title">�.ائکر�^ف�^�? ک�O اجازت</string>
+    <string name="music_recognition_permission_desc">�,ر�Oب�O �.�^س�O�,�O ک�O ش�?اخت ک�' �"ئ�' �.ائکر�^ف�^�? تک رسائ ک�O اجازت د�Oں�"</string>
+    <string name="music_recognition_permission_action">اجازت د�Oں</string>
+    <string name="music_recognition_error">ک�?ھ غ�"ط ہ�^ گ�Oا</string>
+    <string name="music_recognition_settings">�.�^س�O�,�O ک�O ش�?اخت ک�O ترت�Oبات</string>
+    <string name="music_recognition_background_title">پس �.�?طر �.�Oں ش�?اخت</string>
+    <string name="music_recognition_background_description">�?�فع�" ہ�^�?�' پر�O ف�^ر�O ترت�Oبات �^ا�"ا کھپرا اس آ�"ہ پر �?�"ت�O ہ�^ئ �.�^س�O�,�O ک�O DevScout Music کھ�^�"�' بغ�Oر ش�?اخت کرتا ہ�'�"</string>
+    <string name="music_recognition_background_foss_description">�?�پس �.�?طر �.�Oں ش�?اخت کر�?ا FOSS �^ا�"�' �?حخ�' �.�Oں دست�Oاب �?ہ�Oں ہ�'�" ب�"ک�' ف�^ر�O ترت�Oبات �^ا�"ا کھپرا ش�?اخت سکر�O�? کھ�^�"تا ہ�'�"</string>
+    <string name="music_recognition_notification_channel_name">�.�^س�O�,�O ش�?اخت</string>
+    <string name="music_recognition_notification_channel_description">�.�^س�O�,�O ک�O ش�?اخت کا ت�,د�. ا�^ر �?تائج</string>
+    <string name="music_recognition_notification_status_listening">س�?�?ا جار�O</string>
+    <string name="music_recognition_notification_status_processing">�?�ع�.�" �.�Oں</string>
+    <string name="music_recognition_notification_status_result">�?ت�Oجہ</string>
+    <string name="music_recognition_notification_listening_title">�.�^س�O�,�O ک�' �"ئ�' س�?ا جا رہا ہ�'</string>
+    <string name="music_recognition_notification_listening_text">آ�"ہ پر �?�"ت�O ہ�^ئ�O س�.ع�O ک�O تسخ�Oر ک�O جا رہ�O ہ�'</string>
+    <string name="music_recognition_notification_processing_title">س�.ع�O ز�Oر ع�.�"</string>
+    <string name="music_recognition_notification_processing_text">تسخ�Oر کردہ س�.ع�O ک�' �?شا�? ا�?گ�^ٹھ�' کا �.�O�" ک�Oا جا رہا ہ�'</string>
+    <string name="music_recognition_notification_artist">ک�"اکار: �?�%1$s</string>
+    <string name="music_recognition_notification_album">ا�"ب�.: �?�%1$s</string>
+    <string name="music_recognition_notification_genre">ر�?گ: �?�%1$s</string>
+    <string name="music_recognition_notification_release">شائع: �?�%1$s</string>
+    <string name="music_recognition_notification_label">�"�Oب�": �?�%1$s</string>
+    <string name="music_recognition_notification_isrc">ISRC: %1$s</string>
+    <string name="music_recognition_notification_no_match_title">ک�^ئ�O گ�Oت �?ہ �.�"ا</string>
+    <string name="music_recognition_notification_no_match_text">�.�^س�O�,�O ک�^ صاف صاف بج�?�' د�Oں�O پھر د�^بارہ ش�?اخت ک�O ک�^شش کر�Oں�"</string>
+    <string name="music_recognition_notification_recording_failed_title">آ�"ہ ک�' س�.ع�O ک�O تسخ�Oر �?ہ ہ�^ سک�O</string>
+    <string name="music_recognition_notification_recording_failed_text">�?�"ا�?�' �^ا�"�' ا�Oپ �?�' س�.ع�O ک�O تسخ�Oر �.سد�^د کرد�O�O �Oا �?شر رک گئ�O ہ�'�"</string>
+    <string name="music_recognition_notification_signature_failed_text">تسخ�Oر کردہ س�.ع�O �.�Oں ش�?اخت ک�' �"ئ�' کاف�O �.�^س�O�,�O �.�^ج�^د �?ہ�Oں ہ�'�"</string>
+    <string name="music_recognition_notification_recognition_failed_text">خد�.تِ ش�?اخت اس س�.ع�O ک�O ش�?اخت �?ہ کر سک�O�" ک�?ھ د�Oر بعد ک�^شش کر�Oں�"</string>
+    <string name="music_recognition_history">ش�?اخت ک�O سرگزشت</string>
+    <string name="music_recognition_history_search">ش�?اخت شدہ گ�Oت ت�"اش کر�Oں</string>
+    <string name="music_recognition_history_empty_title">ابھ�O تک ک�^ئ�O ش�?اخت شدہ گ�Oت �?ہ�Oں</string>
+    <string name="music_recognition_history_empty_body">ش�?اخت ک�O کا�.�Oاب�O ک�' بعد �.�O�" شدہ گ�Oت ادھر �?�.�^دار ہ�^ں�"</string>
+</resources>
+
+
